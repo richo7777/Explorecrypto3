@@ -1,0 +1,104 @@
+{
+    "shortDescription": "Explore the world of crypto in this quiz!",
+    "questions": [
+        {
+            "question": "What is Bitcoin?",
+            "answers": [
+                "Crypto",
+                "Stock",
+                "Bond"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is Ethereum?",
+            "answers": [
+                "Coin",
+                "Platform",
+                "Bank"
+            ],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "What is a blockchain?",
+            "answers": [
+                "Ledger",
+                "Coin",
+                "Miner"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What are NFTs?",
+            "answers": [
+                "Art",
+                "Crypto",
+                "Tokens"
+            ],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "What is mining?",
+            "answers": [
+                "Creating",
+                "Selling",
+                "Tracking"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is a wallet?",
+            "answers": [
+                "Storage",
+                "Coin",
+                "Node"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is DeFi?",
+            "answers": [
+                "Finance",
+                "Bank",
+                "Token"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is staking?",
+            "answers": [
+                "Earning",
+                "Selling",
+                "Tracking"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is a smart contract?",
+            "answers": [
+                "Program",
+                "Token",
+                "Coin"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "What is gas fee?",
+            "answers": [
+                "Cost",
+                "Reward",
+                "Tax"
+            ],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Follow @xxone",
+            "answers": [
+                "Done",
+                "Sure",
+                "Ok"
+            ],
+            "correctAnswerIndex": 0
+        }
+    ]
+}
